@@ -2,6 +2,7 @@
   "name": "frontend",
   "proxy": "http://localhost:8080/api/v1/books",
   "version": "0.1.0",
+  "homepage": "https://safiullah-97.github.io/Library-Management-System-/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
